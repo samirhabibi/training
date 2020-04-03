@@ -1,0 +1,22 @@
+{
+  "name": "itweb-g12-a2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "cors": "*",
+    "express": "^4.17.1",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
